@@ -1,0 +1,5 @@
+langchain
+zhipuai
+openai
+python-snippets
+faiss-cpu
